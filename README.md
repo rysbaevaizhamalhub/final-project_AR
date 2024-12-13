@@ -1,7 +1,6 @@
 # final-project_AR
 
-# Mo Dao Zu Shi Game
-# Adventure of Wei Wuxian
+# Mo Dao Zu Shi Game: Adventure of Wei Wuxian
 
 This is a text-based adventure game inspired by The Grandmaster of Demonic Cultivation (Mo Dao Zu Shi). You play as Wei Wuxian, a legendary figure brought back to life, who must uncover the mystery behind his death.
 
